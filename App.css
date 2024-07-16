@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(240, 233, 233);
+}
+h3{
+  text-align: center;
+  text-decoration: underline;
+  font-size: x-large;
+  color: black;
+}
+label{
+  margin-left:40px;
+  font-size: larger;
+  font-weight: 500;
+}
+#field{
+  margin-left: 10px;
+}
+#button1{
+  display:flex;
+}
+#button1 button{
+  margin-left: 150px;
+  margin-top: 20px;
+}
+p{
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
